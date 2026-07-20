@@ -124,7 +124,9 @@ pip install hvplot holoviews panel bokeh datashader jupyter_bokeh
 
 If you use this code, please cite the associated paper:
 
-> Galdamez, I. A., Lee, C. M., & Adams, C. E. (*in review*). From Global Trends to Local Microclimates: Assessing NOAA Coral Reef Watch Alerts and ECOSTRESS Thermal Imagery in Belize. *[Journal TBD]*. *(Citation will be updated upon acceptance.)*
+> Galdamez, I. A., Lee, C. M., & Adams, C. E. (2026). From global trends to local microclimates: Assessing NOAA Coral Reef Watch alerts and ECOSTRESS thermal imagery in Belize. *Remote Sensing Applications: Society and Environment*, *43*, 102175. https://doi.org/10.1016/j.rsase.2026.102175
+
+This article is published open access under a [CC BY 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
